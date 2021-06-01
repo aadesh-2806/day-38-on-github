@@ -7,7 +7,7 @@ void main()
 	
 	printf("hello\nenter value=");
 	scanf("%d",&n);
-	
+	 
 	i=1;c=1;
 	t=0;
 	r=0;
